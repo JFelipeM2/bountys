@@ -442,3 +442,12 @@ Asset Sentinel detenido manualmente (Ctrl+C). Hasta luego.
 2026-09-27 21:22:30 [INFO    ] asset-sentinel: ============================================================
 2026-09-27 21:22:30 [INFO    ] core.notifier: [Notifier] Notificacion enviada exitosamente (message_id=68).
 2026-09-27 21:22:30 [INFO    ] core.scanner: [Recon] Iniciando descubrimiento de subdominios para: api.prod.whoop.com
+2026-09-27 21:23:34 [INFO    ] core.scanner: [Recon] 0 subdominios descubiertos para api.prod.whoop.com.
+2026-09-27 21:23:34 [INFO    ] core.scanner: [LiveCheck] Verificando 1 hosts con httpx...
+2026-09-27 21:23:34 [INFO    ] core.scanner: [LiveCheck] 2 hosts activos encontrados.
+2026-09-27 21:23:34 [INFO    ] core.scanner: [Nuclei] Iniciando escaneo sobre 2 hosts...
+2026-09-27 21:24:05 [INFO    ] core.scanner: [Nuclei] 0 hallazgos encontrados.
+2026-09-27 21:24:05 [INFO    ] core.notifier: [Notifier] Notificacion enviada exitosamente (message_id=69).
+2026-09-27 21:24:05 [INFO    ] asset-sentinel: FIN DE CICLO | api.prod.whoop.com | Subdominios: 0 | Hosts activos: 2 | Hallazgos: 0
+2026-09-27 21:24:05 [INFO    ] asset-sentinel: *** CICLO #1 COMPLETADO | Tiempo: 678.6s | Objetivos: 9 | Hallazgos totales: 0 ***
+2026-09-27 21:24:05 [INFO    ] asset-sentinel: Proximo ciclo en 6.0 horas (2026-09-28 03:24:05). Esperando...
