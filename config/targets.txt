@@ -1,0 +1,22 @@
+# Asset Sentinel - Objetivos en Alcance
+# =====================================
+# Agrega un dominio por linea.
+# Las lineas que comienzan con '#' son comentarios y se ignoran.
+# Las lineas vacias tambien se ignoran.
+# Solo incluye dominios que tengas AUTORIZACION EXPRESA para escanear.
+#
+# Ejemplos:
+# example.com
+# target.io
+# bugbounty-program.com
+
+# --- AGREGA TUS OBJETIVOS AQUI ---
+vrbo.com
+hotels.com
+expedia.com
+zooplus.net
+zooplus.de
+zooplus.com
+shop.whoop.com
+app.whoop.com
+api.prod.whoop.com

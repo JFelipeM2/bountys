@@ -1,0 +1,15 @@
+﻿# Asset Sentinel - Dependencias Python
+# =====================================
+# Instalar con: pip install -r requirements.txt
+
+# Google Gemini - SDK oficial (generative AI)
+google-genai>=1.0.0
+
+# Configuracion y validacion de entorno
+pydantic>=2.0.0
+pydantic-settings>=2.0.0
+python-dotenv>=1.0.0
+
+# HTTP / Notificaciones
+requests>=2.31.0
+urllib3>=2.0.0
